@@ -18,7 +18,7 @@
 <br />
 <p>
   <samp>
-    :fire: Repositórios que eu mais gosto
+    :fire: Meus melhores repositórios
     <br />
     <br />
     <a href="https://github.com/vitorserrano/ecoleta">

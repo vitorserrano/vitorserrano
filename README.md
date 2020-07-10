@@ -6,6 +6,7 @@
     <br />
     <br/>
     :rocket: Linguagens e Frameworks
+    <br />
     <br /><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="20" src="https://user-images.githubusercontent.com/51726945/87152548-4d851a00-c28c-11ea-9f39-5a799361f051.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>

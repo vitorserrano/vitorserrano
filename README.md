@@ -1,7 +1,8 @@
 <p>
   <samp>
-    :wave: Olá! eu sou Desenvolvedor na Digital One.
-    <br />Atualmente eu faço o desenvolvimento para soluções web
+     E aí? eu sou o <a href="https://www.linkedin.com/in/vitor-serrano/"> Vitor </a> :wave:
+    <br />
+    <br />Atualmente eu desenvolvo soluções web
     <br />utilizando PHP, JavaScript e AngularJS
     <br />
     <br/>
@@ -14,17 +15,17 @@
     <code><img height="20" src="https://user-images.githubusercontent.com/51726945/87152732-9ccb4a80-c28c-11ea-8868-09cacaa16dc6.png"></code>
   </samp>
 </p>
-  
-<br>
-  
+<br />
 <p>
   <samp>
-    <img
-      src="https://media.giphy.com/media/PKgfwX7ct5f5C/giphy.gif"
-      width="300px"
-    />
-    <br /><br />:coffee: Quer conversar comigo? :point_right:
-    <a href="https://www.linkedin.com/in/vitor-serrano/"> Linkedin</a>
+    :fire: Repositórios que eu mais gosto
+    <br />
+    <br />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitorserrano&repo=ecoleta" />
+    </a>
+    <a href="https://github.com/anuraghazra/anuraghazra.github.io">
+      <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitorserrano&repo=coronadev" />
+    </a>
   </samp>
 </p>
-

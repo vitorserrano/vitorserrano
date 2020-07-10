@@ -21,10 +21,10 @@
     :fire: Repositórios que eu mais gosto
     <br />
     <br />
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/vitorserrano/ecoleta">
       <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitorserrano&repo=ecoleta" />
     </a>
-    <a href="https://github.com/anuraghazra/anuraghazra.github.io">
+    <a href="https://github.com/vitorserrano/coronadev">
       <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitorserrano&repo=coronadev" />
     </a>
   </samp>

@@ -13,10 +13,8 @@
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>               <code><img height="20" src="https://user-images.githubusercontent.com/51726945/87152893-e7e55d80-c28c-11ea-8f0e-401da92bcdad.png"></code>
     <code><img height="20" src="https://user-images.githubusercontent.com/51726945/87152732-9ccb4a80-c28c-11ea-8868-09cacaa16dc6.png"></code>
-    <br />
   </samp>
 </p>
-<br>
 <p>
   <samp>
     :fire: Meus melhores repositórios

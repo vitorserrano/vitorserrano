@@ -16,6 +16,24 @@
   </samp>
 </p>
 <br>
+
+<p>
+  <samp>
+     :coffee: Quer falar comigo?
+    <br />
+    <br />
+    <a href="https://twitter.com/virtuzera">
+      <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/vitor-serrano/">
+      <img align="left" alt="Linkedin" width="21px" src="https://user-images.githubusercontent.com/51726945/87342987-8c340200-c522-11ea-941d-b00a2254696a.png" />
+    </a>
+  </samp>
+</p>
+
+<br>
+<br>
+
 <p>
   <samp>
     :fire: Meus melhores repositórios
@@ -34,17 +52,3 @@
   </samp>
 </p>
 <br>
-<br>
-<p>
-  <samp>
-     :coffee: Quer falar comigo?
-    <br />
-    <br />
-    <a href="https://twitter.com/virtuzera">
-      <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/vitor-serrano/">
-      <img align="left" alt="Linkedin" width="21px" src="https://user-images.githubusercontent.com/51726945/87342987-8c340200-c522-11ea-941d-b00a2254696a.png" />
-    </a>
-  </samp>
-</p>

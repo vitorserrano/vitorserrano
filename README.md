@@ -2,6 +2,12 @@
   <samp>
      E aí? eu sou o <a href="https://www.linkedin.com/in/vitor-serrano/"> Vitor </a> :wave:
     <br />
+    <a href="https://twitter.com/virtuzera">
+      <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/vitor-serrano/">
+      <img align="left" alt="Linkedin" width="21px" src="https://user-images.githubusercontent.com/51726945/87342987-8c340200-c522-11ea-941d-b00a2254696a.png" />
+    </a>
     <br />Atualmente eu desenvolvo soluções web
     <br />utilizando PHP, JavaScript e AngularJS
     <br />
@@ -22,10 +28,10 @@
     <br />
     <br />
     <a href="https://github.com/vitorserrano/ecoleta">
-      <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitorserrano&repo=ecoleta" />
+      <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitorserrano&repo=ecoleta&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
     </a>
     <a href="https://github.com/vitorserrano/coronadev">
-      <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitorserrano&repo=coronadev" />
+      <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitorserrano&repo=coronadev&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
     </a>
   </samp>
 </p>

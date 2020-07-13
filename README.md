@@ -14,16 +14,6 @@
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>               <code><img height="20" src="https://user-images.githubusercontent.com/51726945/87152893-e7e55d80-c28c-11ea-8f0e-401da92bcdad.png"></code>
     <code><img height="20" src="https://user-images.githubusercontent.com/51726945/87152732-9ccb4a80-c28c-11ea-8868-09cacaa16dc6.png"></code>
     <br />
-    <br />
-    :coffee: Quer falar comigo?
-    <br />
-    <br />
-    <a href="https://twitter.com/virtuzera">
-      <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/vitor-serrano/">
-      <img align="left" alt="Linkedin" width="21px" src="https://user-images.githubusercontent.com/51726945/87342987-8c340200-c522-11ea-941d-b00a2254696a.png" />
-    </a>
   </samp>
 </p>
 <br>
@@ -37,6 +27,25 @@
     </a>
     <a href="https://github.com/vitorserrano/coronadev">
       <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitorserrano&repo=coronadev&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    </a>
+    <br />
+    <br />
+    <br />
+    <br />
+  </samp>
+</p>
+<br>
+<br>
+<p>
+  <samp>
+     :coffee: Quer falar comigo?
+    <br />
+    <br />
+    <a href="https://twitter.com/virtuzera">
+      <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/vitor-serrano/">
+      <img align="left" alt="Linkedin" width="21px" src="https://user-images.githubusercontent.com/51726945/87342987-8c340200-c522-11ea-941d-b00a2254696a.png" />
     </a>
   </samp>
 </p>

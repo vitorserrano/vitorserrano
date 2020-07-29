@@ -3,8 +3,8 @@
   <samp>
      E aí? eu sou o <a href="https://www.linkedin.com/in/vitor-serrano/"> Vitor </a> :wave:
     <br />
-    <br />Atualmente eu desenvolvo soluções web
-    <br />utilizando PHP, JavaScript e AngularJS
+    <br />Atualmente eu desenvolvo soluções Mobile
+    <br />utilizando React Native
     <br />
     <br />
     :rocket: Linguagens e Frameworks

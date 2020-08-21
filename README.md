@@ -9,12 +9,12 @@
     <br />
     :rocket: Linguagens e Frameworks
     <br />
-    <br /><code><img height="28" src="https://user-images.githubusercontent.com/11820690/87189669-6c54d200-c2c7-11ea-8bb3-2d3913a791e3.png"></code>
-    <code><img height="28" src="https://user-images.githubusercontent.com/11820690/87189447-08320e00-c2c7-11ea-9d79-df814c611594.png"></code>
-    <code><img height="28" src="https://user-images.githubusercontent.com/11820690/87189442-0700e100-c2c7-11ea-88f0-8250cea308e9.png"></code>
-    <code><img height="28" src="https://user-images.githubusercontent.com/11820690/87189445-08320e00-c2c7-11ea-8301-e6c929daa087.png"></code>
-    <code><img height="28" src="https://user-images.githubusercontent.com/11820690/87189443-07997780-c2c7-11ea-8941-443e5ded2234.png"></code>
-    <code><img height="28" src="https://user-images.githubusercontent.com/51726945/87152732-9ccb4a80-c28c-11ea-8868-09cacaa16dc6.png"></code>
+    <br /><code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189669-6c54d200-c2c7-11ea-8bb3-2d3913a791e3.png"></code>
+    <code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189447-08320e00-c2c7-11ea-9d79-df814c611594.png"></code>
+    <code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189442-0700e100-c2c7-11ea-88f0-8250cea308e9.png"></code>
+    <code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189445-08320e00-c2c7-11ea-8301-e6c929daa087.png"></code>
+    <code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189443-07997780-c2c7-11ea-8941-443e5ded2234.png"></code>
+    <code><img height="24" src="https://user-images.githubusercontent.com/51726945/87152732-9ccb4a80-c28c-11ea-8868-09cacaa16dc6.png"></code>
   </samp>
 </p>
 <br>

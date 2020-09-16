@@ -3,8 +3,9 @@
   <samp>
      E aí? eu sou o <a href="https://www.linkedin.com/in/vitor-serrano/"> Vitor </a> :wave:
     <br />
-    <br />Atualmente eu desenvolvo soluções Mobile
-    <br />utilizando React Native
+    <br />Atualmente eu desenvolvo aplicações Web com ReactJS
+    <br /> e também Mobile utilizando React Native.
+    <br /> Também, faço parte da <a href="https://github.com/DevCia">DevCia</a>
     <br />
     <br />
     :rocket: Linguagens e Frameworks

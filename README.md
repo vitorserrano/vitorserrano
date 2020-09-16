@@ -5,7 +5,7 @@
     <br />
     <br />Atualmente eu desenvolvo aplicações Web com ReactJS
     <br /> e também Mobile utilizando React Native.
-    <br /> Também, faço parte da <a href="https://github.com/DevCia">DevCia</a>
+    <br /> Também, faço parte da comunidade de Desenvolvedores de Cianorte, a <a href="https://github.com/DevCia">DevCia</a>
     <br />
     <br />
     :rocket: Linguagens e Frameworks

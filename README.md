@@ -1,12 +1,14 @@
-<img src="https://camo.githubusercontent.com/003ba65c3026c92b046cc22cc00d7513aedeb2c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966">
 <p>
   <samp>
-     E aí? eu sou o <a href="https://www.linkedin.com/in/vitor-serrano/"> Vitor </a> :wave:
+     E aí? eu sou o <a href="https://www.linkedin.com/in/vitor-serrano/"> Vitor </a> 🤘
     <br />
-    <br />Atualmente eu desenvolvo aplicações Web com ReactJS
+    <br />Atualmente crio soluções Web com ReactJS
     <br />e Mobile utilizando React Native.
     <br />
-    <br /> Também, faço parte da comunidade 
+    <br />Apaixonado por desenvolver aplicações com tecnologias atuais e escaláveis, 
+    <br />aplicando bons padrões de códigos junto a um design simples e intuitivo.
+    <br />
+    <br />Também, faço parte da comunidade 
     <br />de desenvolvedores de Cianorte, a <a href="https://github.com/DevCia">DevCia</a>
     <br />
     <br />
@@ -35,25 +37,3 @@
     </a>
   </samp>
 </p>
-
-<br>
-<br>
-
-<p>
-  <samp>
-    :fire: Meus melhores repositórios
-    <br />
-    <br />
-    <a href="https://github.com/vitorserrano/ecoleta">
-      <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitorserrano&repo=ecoleta&title_color=e6e6e6&icon_color=aa91e3&text_color=9f9f9f&bg_color=191622" />
-    </a>
-    <a href="https://github.com/vitorserrano/coronadev">
-      <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitorserrano&repo=coronadev&title_color=e6e6e6&icon_color=aa91e3&text_color=9f9f9f&bg_color=191622" />
-    </a>
-    <br />
-    <br />
-    <br />
-    <br />
-  </samp>
-</p>
-<br>

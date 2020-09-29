@@ -1,3 +1,4 @@
+<img src="https://camo.githubusercontent.com/003ba65c3026c92b046cc22cc00d7513aedeb2c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966">
 <p>
   <samp>
      E aí? eu sou o <a href="https://www.linkedin.com/in/vitor-serrano/"> Vitor </a> 🤘

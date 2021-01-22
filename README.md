@@ -1,5 +1,3 @@
-# Vitor Serrano
-
 Desenvolvedor na <a href="https://github.com/Coderockr">Coderockr</a>.
 
 <samp>

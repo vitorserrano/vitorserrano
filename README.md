@@ -18,8 +18,7 @@
 
 <br />
 
-Apaixonado por desenvolver aplicações com tecnologias atuais e escaláveis,
-<br />aplicando bons padrões de códigos junto a um design simples e intuitivo.
+Apaixonado por desenvolver aplicações com tecnologias atuais e escaláveis, aplicando bons padrões de códigos junto a um design simples e intuitivo.
 
 Também, faço parte da comunidade
 <br />de desenvolvedores de Cianorte, a <a href="https://github.com/DevCia">DevCia</a>

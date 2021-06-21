@@ -1,6 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" alt="Computer"/>
+# Vitor Serrano
 
-<b>Desenvolvedor</b> na <a href="https://github.com/Coderockr">Coderockr</a>.
+Desenvolvedor fron-end web & mobile na <a href="https://github.com/Coderockr">Coderockr</a>.
 
 <samp>
   <p>
@@ -16,17 +16,18 @@
   </p>
 </samp>
 
-<br />
+## Sobre mim
 
-Apaixonado por desenvolver aplicações com tecnologias atuais e escaláveis, aplicando bons padrões de códigos junto a um design simples e intuitivo.
+Apaixonado por desenvolver aplicações com tecnologias atuais e escaláveis,
+<br /> aplicando bons padrões de códigos junto a um design simples e intuitivo.
 
 Também, faço parte da comunidade
 <br />de desenvolvedores de Cianorte, a <a href="https://github.com/DevCia">DevCia</a>
 
-:rocket: <b>Linguagens e ferramentas</b>
+## Linguagens e ferramentas
+Essas são as principais tecnologias que utilizo no meu dia a dia.
 
 <code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189669-6c54d200-c2c7-11ea-8bb3-2d3913a791e3.png"></code>
 <code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189447-08320e00-c2c7-11ea-9d79-df814c611594.png"></code>
-<code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189442-0700e100-c2c7-11ea-88f0-8250cea308e9.png"></code>
 <code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189445-08320e00-c2c7-11ea-8301-e6c929daa087.png"></code>
-<code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189443-07997780-c2c7-11ea-8941-443e5ded2234.png"></code>
+<img height="24" src="https://user-images.githubusercontent.com/11820690/87189443-07997780-c2c7-11ea-8941-443e5ded2234.png"></code>

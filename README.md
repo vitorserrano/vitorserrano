@@ -1,6 +1,6 @@
 # Vitor Serrano
 
-Desenvolvedor fron-end web & mobile na <a href="https://github.com/Coderockr">Coderockr</a>.
+Desenvolvedor mobile na <a href="https://github.com/stone-ton">@Ton</a>.
 
 <samp>
   <p>

@@ -8,5 +8,5 @@ Front-end software developer.
 Working with front-end development since 2020 and have solid experience in HTML, CSS, JavaScript, TypeScript, <br> 
 React, React Native, Next.js, TailwindCSS, Expo, Git, and more.
 
-Passionate about web and mobile development, aiming to create scalable and accessible solutions, <br> 
+Passionate web and mobile development, aiming to create scalable and accessible solutions, <br> 
 focusing on performance and user experience.

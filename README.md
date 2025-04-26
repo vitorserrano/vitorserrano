@@ -1,33 +1,12 @@
 # Vitor Serrano
 
-Desenvolvedor mobile na <a href="https://github.com/stone-ton">@Ton</a>.
+Front-end software developer.
 
-<samp>
-  <p>
-    <a href="https://twitter.com/virtuzera">
-      <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/vitor-serrano/">
-      <img alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/51726945/87342987-8c340200-c522-11ea-941d-b00a2254696a.png" />
-    </a>
-    <a href="mailto:vitorserrano@gmail.com">
-      <img alt="Gmail" width="22px" src="https://user-images.githubusercontent.com/51726945/97306879-c9a46d00-183d-11eb-8d56-6883a85a4c39.png" />
-    </a>
-  </p>
-</samp>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4b5563?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-serrano/)](https://www.linkedin.com/in/vitor-serrano/) 
+[![Gmail Badge](https://img.shields.io/badge/-vitorcirinoserrano@gmail.com-4b5563?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorcirinoserrano@gmail.com)](mailto:vitorcirinoserrano@gmail.com)
 
-## Sobre mim
+Working with front-end development since 2020 and have solid experience in HTML, CSS, JavaScript, TypeScript, <br> 
+React, React Native, Next.js, TailwindCSS, Expo, Git, and more.
 
-Apaixonado por desenvolver aplicações com tecnologias atuais e escaláveis,
-<br /> aplicando bons padrões de códigos junto a um design simples e intuitivo.
-
-Também, faço parte da comunidade
-<br />de desenvolvedores de Cianorte, a <a href="https://github.com/DevCia">DevCia</a>
-
-## Linguagens e ferramentas
-Essas são as principais tecnologias que utilizo no meu dia a dia.
-
-<code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189669-6c54d200-c2c7-11ea-8bb3-2d3913a791e3.png"></code>
-<code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189447-08320e00-c2c7-11ea-9d79-df814c611594.png"></code>
-<code><img height="24" src="https://user-images.githubusercontent.com/11820690/87189445-08320e00-c2c7-11ea-8301-e6c929daa087.png"></code>
-<img height="24" src="https://user-images.githubusercontent.com/11820690/87189443-07997780-c2c7-11ea-8941-443e5ded2234.png"></code>
+Passionate about web and mobile development, aiming to create scalable and accessible solutions, <br> 
+focusing on performance and user experience.

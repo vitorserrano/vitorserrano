@@ -1,12 +1,7 @@
-# Vitor Serrano
+#### software engineer
 
-Front-end software developer.
+i build complete applications and spend a lot of time exploring AI. <br/>
+mostly LLMs, agents, harnesses, orchestration and how all of this changes the way we build software.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4b5563?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-serrano/)](https://www.linkedin.com/in/vitor-serrano/) 
-[![Gmail Badge](https://img.shields.io/badge/-vitorcirinoserrano@gmail.com-4b5563?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorcirinoserrano@gmail.com)](mailto:vitorcirinoserrano@gmail.com)
-
-Working with front-end development since 2020, with solid experience in HTML, CSS, JavaScript,<br>
-TypeScript, React, React Native, Next.js, TailwindCSS, Expo, Git, and more.
-
-Passionate about web and mobile development, aiming to create scalable and accessible solutions,<br> 
-focusing on performance and user experience.
+[![linkedin Badge](https://img.shields.io/badge/-Linkedin-4b5563?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-serrano/)](https://www.linkedin.com/in/vitor-serrano/) 
+[![gmail Badge](https://img.shields.io/badge/-vitorcirinoserrano@gmail.com-4b5563?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorcirinoserrano@gmail.com)](mailto:vitorcirinoserrano@gmail.com)
